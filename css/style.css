@@ -1,0 +1,122 @@
+.jumbotron{
+    background-color:white;
+    text-align: center;
+    font-size: 400%;
+    color:white;
+    opacity:0.95;
+    height:100vh;
+    background:url('../img/back.jpg') center;
+    background-attachment: fixed;
+    background-size:cover;
+    width:100%;
+}
+html {
+  scroll-behavior: smooth;
+}
+.jumbotron h1{
+  text-align: center;
+  padding-right:10%;
+  padding-top:10%;
+  padding-left:10%;
+  padding-bottom:0%;
+  font-family: Fjalla,sans-serif;
+}
+.jumbotron p{
+  text-align: center;
+  padding-right:10%;font-size:30%;
+  padding-top:0%;
+  padding-left:10%;
+  padding-bottom:0%;
+
+}
+.border-bottom{
+  border-width:20;
+  margin-left:5%;margin-right:5%;
+  padding-right:2%;padding-left:2%;
+}
+.navbar{
+  width:100%;
+}
+.row img{
+  object-fit:fill;
+  padding-bottom:2%;
+  margin: auto;
+
+}
+.HELP{
+  background:url('../img/mcloud.jpg') center;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.navbar-nav li{
+  padding-left:2%;
+  padding-right:2%;
+}
+.row h2{
+  font-family: Hyeon,sans-serif;
+  color:black;
+  text-align:center;
+  border-right:1px;
+  font-size:350%;
+  border-color:black;
+  padding:2%;
+  font-weight: bold;
+}
+.CODE{
+  background:url('../img/pc.jpg') center;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.card img{border-radius:0%;}
+.row p{
+  font-family: Montserrat,sans-serif;
+  color:black;font-size:160%;
+  padding-right:10%;padding-left:10%;
+  padding-top:0%;padding-bottom:2%;
+  border-right:1px;
+  border-color:black;
+}
+.card h2{
+  font-size:100%;
+  overflow:hidden;
+
+}
+.col-md-6{
+  padding-left:10%;padding-right:10%;
+}
+.card img{
+  margin:auto;
+  width:50%;
+  padding:1%;
+  height:100%;
+}
+.GROUPS{
+  background:url('../img/cloudcloud.jpg') center;
+  background-attachment: fixed;
+  background-size:cover;
+}
+.content2{padding-bottom:4%;}
+.alert{
+  margin-left:5%;margin-right:5%;
+  padding-right:2%;padding-left:2%;
+}
+.carousel-inner img {
+    margin: auto;
+    width: 100%;
+}
+.carousel-arr a{
+  height: 5%;
+  top: 50%;
+  width: 2%;
+  background: black;
+}
+.headtitle h2{
+  font-family: 'Fjalla One', sans-serif;
+  color:black;
+  text-align:center;
+  border-right:1px;
+  font-size:350%;
+  border-color:black;
+  padding:2%;
+  font-weight: bold;
+}

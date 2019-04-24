@@ -1,0 +1,2 @@
+$('.navbar').localScroll();
+$('.jumbotron').localScroll();
