@@ -47,6 +47,7 @@ html {
   background:url('../img/source.jpg') center;
   background-attachment: fixed;
   background-size:cover;
+  overflow-wrap: break-word;
 }
 .navbar-nav li{
   padding-left:2%;
@@ -62,10 +63,13 @@ html {
   padding:2%;
   font-weight: bold;
 }
+
 .CODE{
   background:url('../img/pc.jpg') center;
   background-attachment: fixed;
   background-size:cover;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 .card img{border-radius:0%;}
 .row p{
@@ -94,6 +98,8 @@ html {
   background:url('../img/cloudcloud.jpg') center;
   background-attachment: fixed;
   background-size:cover;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 .content2{padding-bottom:4%;}
 .alert{
